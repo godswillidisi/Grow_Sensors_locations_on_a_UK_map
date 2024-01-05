@@ -1,5 +1,5 @@
 # I imported necessary libraries for this project. pandas for data manipulation, geopandas for 
-# handling geographical data, point class from shapely for representing point geometires and
+# handling geographical data, point class from shapely for representing point geometries and
 # Matplotlib for plotting.
 import pandas as pd
 import geopandas as gpd
